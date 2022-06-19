@@ -1,12 +1,12 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "新建画布1.moc3",
+		"Moc": "pp.moc3",
 		"Textures": [
-			"新建画布1.1024/texture_00.png"
+			"pp.1024/texture_00.png"
 		],
-		"Physics": "新建画布1.physics3.json",
-		"DisplayInfo": "新建画布1.cdi3.json"
+		"Physics": "pp.physics3.json",
+		"DisplayInfo": "pp.cdi3.json"
 	},
 	"Groups": [
 		{
